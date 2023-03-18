@@ -1,5 +1,5 @@
 # Hey there :wave:
-# Just another cs nerd :)
+# Just another cs nerd :) :robot:
 <img src="banner.png" alt="Hello world">
 
 <p align="center"> 
