@@ -1,5 +1,5 @@
 # Hey there :wave:
-
+# Just another cs nerd :)
 <img src="banner.png" alt="Hello world">
 
 <p align="center"> 
